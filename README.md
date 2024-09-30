@@ -13,7 +13,7 @@ Buat new repository public
 
 pada terminal adroidstudio ketikan perintah :
 1. git init (Ini akan menginisialisasi repositori Git di folder proyek Android Studio Anda.)
-2. git ad . (Menambahkan semua file proyek ke repositori Git.)
+2. git add . (Menambahkan semua file proyek ke repositori Git.)
 3. git commit -m "Pesan commit pertama" (commit untuk perubahan)
 4. git remote add origin https://github.com/alfharisqi/widgetdasarflutterapp.git (menghubungkan repositori lokal dengan repositori GitHub.)
 5. git push -u origin master (Kirim commit ke repositori GitHub.)
